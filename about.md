@@ -27,7 +27,7 @@ key: page-about
 ---
 # Kyle Hankins
 
-**Founder and CTO, [Bytewhisper Security](https://www.bytewhispersecurity.com)**  
+## **CTO and Cofounder, [Bytewhisper Security](https://www.bytewhispersecurity.com)**  
 [GitHub: dashnine](https://github.com/dashnine)  
 Denver, CO
 
