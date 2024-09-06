@@ -226,5 +226,5 @@ plugins:
   - jemoji
 
 collections:
-  projects:
+  my_projects:
     output: true

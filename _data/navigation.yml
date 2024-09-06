@@ -49,7 +49,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Projeler
       # @end locale config
-    url: /projectpage.html
+    url: /projects.html
 
 
   - titles:
