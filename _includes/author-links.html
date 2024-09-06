@@ -38,11 +38,19 @@
 
     {%- if _author.twitter -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}">
-        <a class="button button--circle twitter-button" itemprop="sameAs" href="https://twitter.com/{{ _author.twitter }}" target="_blank">
+        <a class="button button--circle twitter-button" itemprop="sameAs" href="https://x.com/{{ _author.twitter }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/twitter.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
+
+    {%- if _author.soundcloud -%}
+    <li title="{{ _locale_string_follow | replace: '[NAME]', 'Soundcloud' }}">
+      <a class="button button--circle soundcloud-button" itemprop="sameAs" href="https://soundcloud.com/{{ _author.soundcloud }}" target="_blank">
+        <div class="icon">{%- include svg/icon/social/soundcloud.svg -%}</div>
+      </a>
+    </li>
+  {%- endif -%}
 
     {%- if _author.weibo -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Weibo' }}">
