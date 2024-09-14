@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Kyle Hankins
 
 ## **CTO and Cofounder, [Bytewhisper Security](https://www.bytewhispersecurity.com)**  
 [GitHub: dashnine](https://github.com/dashnine)  
