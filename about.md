@@ -1,5 +1,6 @@
 ---
 layout: article
+show_title: false
 titles:
   # @start locale config
   en      : &EN       About
@@ -26,7 +27,7 @@ titles:
 key: page-about
 ---
 
-## **CTO and Cofounder, [Bytewhisper Security](https://www.bytewhispersecurity.com)**  
+# **Kyle Hankins**, CTO and Cofounder, [Bytewhisper Security](https://www.bytewhispersecurity.com) 
 [GitHub: dashnine](https://github.com/dashnine)  
 Denver, CO
 
